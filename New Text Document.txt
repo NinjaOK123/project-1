@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Infix ~ Postfix</title>
+<link rel="stylesheet" href="style/style.css">
+<script language="JavaScript" src="scripts/infix-postfix.js"></script>
+<style type="text/css">
+body{
+background-color:#CCCCCC;
+}
+</style>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6J9FNP');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6J9FNP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<table width="100%" height="100%"><tr><td align="middle">
+<table class="main" align="center" cellspacing="0" cellpadding="0"><tr><td>
+	<center><img src="images/head.gif"><br><img src="images/line.gif"></center>
+	<script language="JavaScript" src="scripts/form_write.js"></script>
+	<span class="content">
+		<ul>
+			<li><a href="algorithms/infix-postfix/index.html" class="link">Click here</a> for the algorithm used in "Infix to Postfix" conversion.</li>
+			<li><a href="algorithms/postfix-evaluation/index.html" class="link">Click here</a> for the algorithm used in "Postfix Evaluation".</li>
+		</ul>
+	</span>
+	<table class="cpy"><tr><td><span class="content">&#169; 2002 Premshree Pillai. <a href="http://www.qiksearch.com/" class="link" target="_blank">Visit Qiksearch.com</a></span></td></tr></table>
+</td></tr></table>
+</td></tr></table>
+
+<!-- Default Statcounter code for Scriptasylum.com https://scriptasylum.com/ -->
+<script type="text/javascript">
+var sc_project=11954675;
+var sc_invisible=1;
+var sc_security="32d8245f";
+</script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/11954675/0/32d8245f/1/" alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+</body>
+</html>
